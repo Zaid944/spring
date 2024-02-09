@@ -1,0 +1,6 @@
+-- insert into COURSE (id, name, author)
+-- values (2,"Zaid","MyBook2");
+--
+-- select * from course
+--
+-- delete from course where id=1
